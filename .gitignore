@@ -1,0 +1,18 @@
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environment directory
+venv/
+.env
+
+# Data and Vault files (CRITICAL: Do not track actual user data)
+data/password_vault.txt
+data/salt.key
+data/passwords_export.csv
+data/*.log
+
+# Operating System generated files
+.DS_Store
+Thumbs.db

@@ -1,0 +1,4 @@
+# Required for encryption (Fernet)
+cryptography
+# Required for API checks
+requests
